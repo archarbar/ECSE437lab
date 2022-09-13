@@ -1,4 +1,5 @@
 // Tony Ou - 260867785
+// tony.ou@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
