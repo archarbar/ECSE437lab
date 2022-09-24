@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ce1b2fe8_fa838843",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020545
+      },
+      "writtenOn": "2022-09-24T21:48:40Z",
+      "side": 1,
+      "message": "Just one last small change to make before I approve",
+      "revId": "dfb1f9fea44142c2a41e42f9922f1a66a2403553",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8864c10b_deb5aabf",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1020545
+      },
+      "writtenOn": "2022-09-24T21:48:40Z",
+      "side": 1,
+      "message": "We are almost there! Just need to change lab1 to lab2",
+      "revId": "dfb1f9fea44142c2a41e42f9922f1a66a2403553",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
